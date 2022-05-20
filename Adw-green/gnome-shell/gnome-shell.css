@@ -1,0 +1,17 @@
+@define-color accent_color #419c8a;
+@define-color accent_bg_color #419c8a;
+
+.calendar-day-base:active, .calendar-day-base:selected {
+	background-color: #419c8a;
+	border-color: #419c8a; 
+}
+
+.slider {
+	-slider-active-background-color: #419c8a;
+	-barlevel-active-background-color: #419c8a;
+	-barlevel-overdrive-color: #419c8a;
+}
+
+.osd-window .level {
+	-barlevel-active-background-color: #419c8a;
+}
