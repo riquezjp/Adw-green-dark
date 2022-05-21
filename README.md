@@ -30,6 +30,8 @@ COPY the folder provided `Adw-Green` to `~Home/.themes/Adw-Green`
 Close any nautilus (Files) windows you might have open & run `nautilus -q` in terminal. Then open any folder & you should see green accents.
 
 DONE.
+
+Note: The official Manjaro green is #16a085, so you can replace my use of #419c8a in each css file.
 --------------------------------------------
 
 Process:
