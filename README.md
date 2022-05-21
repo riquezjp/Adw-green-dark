@@ -1,7 +1,8 @@
 # Adw-green-dark
 A 'quick fix' for Manjaro Green accents in Gnome42
 
-For anyone who cant wait, here is an easy way to get green accents back (mostly)
+For anyone who cant wait, here is an easy way to get green accents back (mostly).
+This is a home hack. It wont break anything & you can easily just remove the files.
 
 THIS IS FOR DARK MODE USERS, This version is modded from `/usr/share/themes/adw-gtk3-dark`
 if you use light mode you'll need to engineer your own version from `/usr/share/themes/adw-gtk3` I will document the process below.
