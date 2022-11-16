@@ -1,17 +1,19 @@
-@define-color accent_color #419c8a;
-@define-color accent_bg_color #419c8a;
+@define-color accent_color #16a085;
+@define-color accent_bg_color #16a085;
 
-.calendar-day-base:active, .calendar-day-base:selected {
-	background-color: #419c8a;
-	border-color: #419c8a; 
-}
 
+.calendar .calendar-today {
+    background-color: #16a085;
+} 
+ .calendar .calendar-day-base:focus {
+      box-shadow: inset 0 0 0 2px rgba(22, 169, 133, 0.6); }
+      
 .slider {
-	-slider-active-background-color: #419c8a;
-	-barlevel-active-background-color: #419c8a;
-	-barlevel-overdrive-color: #419c8a;
+	-slider-active-background-color: #16a085;
+	-barlevel-active-background-color: #16a085;
+	-barlevel-overdrive-color: #16a085;
 }
 
 .osd-window .level {
-	-barlevel-active-background-color: #419c8a;
+	-barlevel-active-background-color: #16a085;
 }

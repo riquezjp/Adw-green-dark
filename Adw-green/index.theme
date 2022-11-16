@@ -1,11 +1,10 @@
-[Desktop Entry]
-Type=X-GNOME-Metatheme
+[X-GNOME-Metatheme]
 Name=Adw-Green
 Comment=Temp mod for green highlight
-Encoding=UTF-8
-
-[X-GNOME-Metatheme]
 GtkTheme=Adw-Green
-MetacityTheme=Adw-Green
+
 IconTheme=Zafiro-icons
+
+Encoding=UTF-8
+Type=X-GNOME-Metatheme
 ButtonLayout=:minimize,maximize,close
