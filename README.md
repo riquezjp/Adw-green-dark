@@ -19,7 +19,7 @@ Immediately your gtk4 apps like Settings, Calendar, Calc will have green accents
 
 It may be wise to rename this file to something else when offical support is ready.
 
-**If you use Manjaro Gnome 43** you can use the app Gradience to set your accent colour to #16a085, if you do that then you dont need my gtk.css file & can skip this step.
+**If you use Manjaro Gnome 43** you can use the app Gradience to set your accent colour to #16a085, if you do that then you dont need my gtk.css file & can skip this step. I reccomend using gradience.
 
 # Step 2 
 COPY the folder provided `Adw-Green` to `~Home/.themes/Adw-Green`
